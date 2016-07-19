@@ -1,4 +1,3 @@
-//091895 Á¶È£Ã¶ 
 #include <stdio.h> 
   
 int main() 
