@@ -1,1 +1,2 @@
-# Web-based-information-system-of-shopping-mall
+# Simple-algorithms
+algorithms (bubble sort, radix sort, bellmanford, tree)
