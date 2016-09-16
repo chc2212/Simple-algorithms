@@ -1,2 +1,2 @@
 # Simple-algorithms
-algorithms (bubble sort, radix sort, bellmanford, tree)
+algorithms (bubble sort, radix sort, bellmanford, tree) 
